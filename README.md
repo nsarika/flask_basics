@@ -1,2 +1,2 @@
-# flask_basics
-flask basics tutorial
+book_catalog project  for git commands demonstration
+
